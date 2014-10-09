@@ -1,0 +1,26 @@
+Exercitiul 1
+	1) f(x) = 3 * x
+	2) g(x) = x * X
+
+	3) plus(f, g) = h , h = f + g
+
+	4) o (x, y) = x * y + x - y
+	5) lift(o, f, g) = h , h = f * g + f - g
+
+
+Exercitiul 2 - Functii recursive
+
+	1) factorial
+	2) fibonacci 
+
+
+Exercitiul 3 - LISTE
+	1) Primul elemet al listei
+	2) ultimul element al listei
+	2') penultim
+	3) lungime
+	4) find
+	4') pos x, l
+	5) reverse
+	5') reverse eficient
+
